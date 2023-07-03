@@ -1,0 +1,39 @@
+body{
+    background-image: url("snow_im.jpeg");
+    height: 700px; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.count{
+padding: 10% 28%;
+width:40%;
+text-align: center;
+font-weight: bold;
+font-size: 19px;
+}
+p{
+  font-size: 25px;
+}
+button{
+  font-weight: bold;
+  width:170px;
+  height:30px;
+  margin-bottom: 7px;
+  border: none;
+  border-radius: 5px;
+  color: white;
+}
+ #increase{
+    background-color:rgb(131, 24, 24);
+}
+#savecount{
+  background-color:rgb(9, 80, 9);
+} 
+.flex-parent {
+    display: flex;
+  }
+.jc-center {
+    justify-content: center;
+  }
+
